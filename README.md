@@ -70,32 +70,13 @@ This project contains *4 simple tables* (without primary or foreign keys) and *2
 
 ---
 
-## 🧠 Who Can Benefit?
-
-- Students learning SQL for the first time  
-- Beginners practicing MySQL Workbench or any SQL IDE  
-- Anyone wanting to strengthen their query writing skills  
-
----
-
 ## 🛠 Tech Stack
 
-- SQL (MySQL compatible)  
+- SQL 
 - No need for primary or foreign keys  
-- Ideal for MySQL Workbench or similar SQL environments  
 
 ---
-
-## 📌 License
-
-This project is free to use for educational and learning purposes.
-
----
-
 ## 🙌 Credits
 
 Created by me, inspired by real-world retail data to make SQL learning practical and enjoyable.
 
----
-
-Feel free to reach out if you want sample solutions or have any questions!
